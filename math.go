@@ -1,4 +1,4 @@
-package goappaluno
+package main
 
 import "fmt"
 
